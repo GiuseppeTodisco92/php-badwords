@@ -19,7 +19,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>la lunghezza del testo è di : <?php echo strlen($text); ?></h1>
+    <h1>la lunghezza del testo è di : <?php echo strlen($text); ?> caratteri </h1>
     <p>
          <?php echo $new_text; ?>
     </p>
